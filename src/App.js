@@ -10,11 +10,11 @@ function App() {
         <p>Testing git version control system between github and vscode.</p>
         <a
           className='App-link'
-          href='https://reactjs.org'
+          href='https://github.com/SvilenKostadinov/react-git-demo-repo'
           target='_blank'
           rel='noopener noreferrer'
         >
-          Learn React
+          My react-git-demo-repo
         </a>
       </header>
     </div>
